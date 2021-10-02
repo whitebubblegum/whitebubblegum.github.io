@@ -15,7 +15,7 @@ body {
 
 .container .promo {
     text-align: center;
-    color: snow;
+    color: black;
     
 }
 
@@ -28,3 +28,14 @@ a:hover {
     text-decoration: none;
     color: grey;
 }
+
+.promo img {
+    width: 450px;
+    margin-left: 200px;
+    
+}
+
+.promo{
+    margin-top: 50px;
+}
+
