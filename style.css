@@ -1,61 +1,9 @@
-@charset "utf-8";
-
-* {
-    margin: 0;
-    padding: 0;
-    outline: none;
+.col img{
+    width: 10%;
+    margin-left: 50%;    
 }
 
-html {
-    height: 100%;
+.col li{
+    display: inline; 
+    margin-left: 10%;  
 }
-
-body {
-    width: 100%;
-    height: 100%;
-    background-color: #fff;
-    color: #333;
-    font-family: "Segoe UI", Arial, sans-serif;
-    line-height: 135%;
-}
-
-a {
-    text-decoration: none;
-}
-
-.clear {
-    clear:both;
-}
-
-/* cтили для шапка */
-
-header {
-    width: 98%;
-    float: left;
-    padding: 1%;
-    border-bottom: 2px solid silver;
-    height: 3%;
-}
-
-header #logo {
-    width: 30%;
-    color: #939393;
-    font-size: 2em;
-    float: left;
-}
-
-header #menuHead {
-    width: 40%;
-    float: left;
-}
-
-header #logo a {
-    margin-left: 60%;
-}
-
-header #reg {
-    width: 30%;
-    float: left;
-    text-align: right;
-}
-
