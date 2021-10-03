@@ -30,12 +30,13 @@ a:hover {
 }
 
 .promo img {
-    width: 450px;
-    margin-left: 200px;
+    width: 60%;
+    float: right;
     
 }
 
 .promo{
     margin-top: 50px;
+    font-size: 90%;
 }
 
